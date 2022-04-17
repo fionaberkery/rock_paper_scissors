@@ -1,0 +1,32 @@
+header {
+    background-color: rgb(237, 79, 242);
+    color: rgb(232, 235, 58);
+    text-align: center;
+    padding: 20px;
+    font-size: large;
+    font-family:'Courier New', Courier, monospace\;
+}
+
+body {
+    background-color: rgb(232, 235, 58);
+}
+
+p {
+    color :rgb(232, 235, 58);
+    font-size: xx-large;
+    font-family: 'Courier New', Courier, monospace
+}
+
+#result_header {
+    color: rgb(237, 79, 242);
+    background-color: rgb(232, 235, 58);
+}
+
+#result_body {
+    background-color: rgb(237, 79, 242);
+}
+
+#choices {
+    color: rgb(237, 79, 242);
+}
+
